@@ -1,6 +1,6 @@
 # Curso CodeIgniter
 
-Este es el repositorio para el curso CodeIgniter. Inclye todos los archivos necesarios para seguir el curso en línea. 
+Este es el repositorio para el curso CodeIgniter. Incluye todos los archivos necesarios para seguir el curso en línea. 
 
 Cada clase cuenta con los archivos necesarios para seguir el episodio. El respositorio incluye una rama (llamada inicial) los archivos iniciales y otra rama (llamada final) con los archivos finales con el código que tendría al final del ejercicio. 
 
